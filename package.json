@@ -1,0 +1,14 @@
+{
+  "name": "xproje",
+  "version": "2.0.0",
+  "description": "Crypto alert monitor — Anvil YARD + StonkBrokers + @clockincoin",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "dev": "node --watch monitor.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.x",
+    "playwright": "^1.x"
+  }
+}

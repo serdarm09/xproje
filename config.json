@@ -1,0 +1,10 @@
+{
+  "bearer_token": "AAAAAAAAAAAAAAAAAAAAAIOnwwEAAAAAeSg96lVf13phXPbdh4jqSHrdehg%3DZahdxk34UHumdlsWb2UO8BzGjE7q5VqRAEfm8GBaIn3455idPw",
+  "clockincoin_username": "clockincoin",
+  "web_poll_interval_seconds": 15,
+  "yard_keywords": ["YARD"],
+  "stonk_known_projects": ["DERP", "MANCER"],
+  "alert_sound": true,
+  "alert_popup": true,
+  "alert_open_browser": true
+}
